@@ -1,5 +1,6 @@
 Http Request 
-Question2.
+
+Question3.
 
 > GET /odetocode.jpg HTTP/1.1
 > Host: odetocode.com
@@ -17,3 +18,10 @@ Http Response
 < X-Powered-By: ASP.NET
 < Date: Mon, 16 Sep 2019 09:27:37 GMT
 <
+
+
+question 8
+
+https://www.independent.ie/
+
+346 requests 
